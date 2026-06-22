@@ -1,0 +1,22 @@
+console.log("Hola, esto en un archivo aparte loco");
+console.log("Buenass");
+console.log(12);
+console.log(true);
+var numeroA = 230;
+console.log(numeroA);
+var nombre = "Santiago";
+console.log(nombre);
+console.log("Hola");
+console.log("Hello");
+var nombre = "Nahuel";
+console.log(nombre);
+let Apellido = "Addolorato";
+console.log(Apellido);
+/* let Apellido = "Rosa";
+console.log(Apellido); */
+Apellido = "Rosa";
+console.log(Apellido);
+const edad = 33;
+console.log(edad);
+edad = 24;
+console.log(edad);
